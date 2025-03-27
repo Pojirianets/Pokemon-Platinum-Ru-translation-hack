@@ -6,3 +6,5 @@
 Перевод ведётся с помощью [sdsme](https://github.com/Skareeg/SDSME).
 
 [Группа ВК](https://vk.com/pojirianets)
+
+[Альфа-версия перевода](https://disk.yandex.ru/d/j__zUZWZ9fqu0g) уже доступна!
