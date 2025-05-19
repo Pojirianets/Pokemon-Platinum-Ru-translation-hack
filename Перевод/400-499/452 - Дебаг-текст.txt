@@ -1,0 +1,26 @@
+\v0134ぁ\x0000\x0000\x0001\v0100ぁ\x0001\x0000\x0001\v0100ぁぁ\x0000\x0001\v0100ぁあ\x0000	
+Male	
+Female	
+None	
+Normal	
+Rare	
+－	
+Loop	
+→	
+Start loading.	
+Start saving.	
+YES	
+NO	
+Ｌ１	
+Ｌ２	
+Ｌ３	
+Ｌ４	
+Ｌ５	
+Ｌ６	
+Ｌ７	
+Ｌ８	
+Ｌ９	
+Ｐｏｓ（\v0134ぁぃ\x0000、\v0134ぁい\x0000）	
+Play cries	
+Edit front	
+Edit back	

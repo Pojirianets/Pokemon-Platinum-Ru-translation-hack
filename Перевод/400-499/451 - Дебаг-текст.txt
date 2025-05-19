@@ -1,0 +1,143 @@
+Get squashed then get away	
+Tremble vertically	
+Pull vertically	
+Shrink then swell	
+Store then jump: slow	
+Tremble horizontally	
+Jumpin’: small 	
+Store then jump horizontally	
+Vertical shake	
+BALTOY: slow	
+jump horizontally: slow	
+Sliced sideways jump	
+jump horizontally: small	
+----------	
+Jerk	
+Double Team	
+Horizontal shake: slow	
+----------	
+Pull horizontally	
+Spark	
+----------	
+Shrink twice then swell	
+Cradle: slow	
+jump hrizontally	
+vertical jump to horizontal jump	
+Jumpin’	
+Vertical shake: slow	
+----------	
+BALTOY: twice	
+Horizontal shake 	
+Dummy	
+Dummy	
+Dummy	
+Dummy	
+Dummy	
+Dummy	
+Dummy	
+Dummy	
+Dummy	
+Dummy	
+Dummy	
+Dummy	
+Dummy	
+Dummy	
+Dummy	
+Dummy	
+Dummy	
+Dummy	
+Dummy	
+Dummy	
+Ｂ\x0001Double Team 1	
+Ｂ\x0001Double Team 2	
+Ｂ\x0001Double Team 3	
+Ｂ\x0001Horizontal shake 1	
+Ｂ\x0001Horizontal shake 2	
+Ｂ\x0001Horizontal shake 3	
+Ｂ\x0001Vertical tremble 1	
+Ｂ\x0001Vertical tremble 2	
+Ｂ\x0001Vertical tremble 3	
+Ｂ\x0001Horizontal tremble 1	
+Ｂ\x0001Horizontal tremble 2	
+Ｂ\x0001Horizontal tremble 3	
+Ｂ\x0001Vertical stretch 1	
+Ｂ\x0001Vertical stretch 2	
+Ｂ\x0001Vertical stretch 3	
+Ｂ\x0001Horizontal stretch 1	
+Ｂ\x0001Horizontal stretch 2	
+Ｂ\x0001Horizontal stretch 3	
+Ｂ\x0001Vertical & horizontal stretch 1	
+Ｂ\x0001Vertical & horizontal stretch 2	
+Ｂ\x0001Vertical & horizontal stretch 3	
+Ｂ\x0001Jerk 1	
+Ｂ\x0001Jerk 2	
+Ｂ\x0001Jerk 3	
+Ｂ\x0001Triangle1	
+Ｂ\x0001Triangle2	
+Ｂ\x0001Triangle3	
+Ｂ\x0001Bound1	
+Ｂ\x0001Bound2	
+Ｂ\x0001Bound3	
+Ｂ\x0001Bound： small1	
+Ｂ\x0001Bound： small2	
+Ｂ\x0001Bound： small3	
+Ｂ\x0001さゆうゆれ1	
+Ｂ\x0001さゆうゆれ2	
+Ｂ\x0001さゆうゆれ3	
+Ｂ\x0001sink 1	
+Ｂ\x0001sink 2	
+Ｂ\x0001sink 3	
+Ｂ\x0001Shrink and Swell\x00011	
+Ｂ\x0001Shrink and Swell\x00012	
+Ｂ\x0001Shrink and Swell\x00013	
+Ｂ\x0001Take Down 1	
+Ｂ\x0001Take Down	
+Ｂ\x0001Take Down	
+Ｂ\x0001Fade: red 1	
+Ｂ\x0001Fade: red 2	
+Ｂ\x0001Fade: red 3	
+Ｂ\x0001Fade: blue 1	
+Ｂ\x0001Fade: blue 2	
+Ｂ\x0001Fade: blue 3	
+Ｂ\x0001Fade: green 1	
+Ｂ\x0001Fade: green 2	
+Ｂ\x0001Fade: green 3	
+Ｂ\x0001Spark1	
+Ｂ\x0001Spark2	
+Ｂ\x0001Spark3	
+Ｂ\x0001Move horizontally with tremble 1	
+Ｂ\x0001Move horizontally with tremble 2	
+Ｂ\x0001Move horizontally with tremble 3	
+Ｂ\x0001Rapid rotation 1	
+Ｂ\x0001Rapid rotation 2	
+Ｂ\x0001Rapid rotation 3	
+Ｂ\x0001Swell 1	
+Ｂ\x0001Swell 2	
+Ｂ\x0001Swell 3	
+Ｂ\x0001Shrink & Swell 1	
+Ｂ\x0001Shrink & Swell 2	
+Ｂ\x0001Shrink & Swell 3	
+Ｂ\x0001Squashed with horizontal shake Ａ1	
+Ｂ\x0001Squashed with horizontal shake Ａ2	
+Ｂ\x0001Squashed with horizontal shake Ａ3	
+Ｂ\x0001Squashed with horizontal shake Ｂ1	
+Ｂ\x0001Squashed with horizontal shake Ｂ2	
+Ｂ\x0001Squashed with horizontal shake Ｂ3	
+Ｂ\x0001Jumpin’ 1	
+Ｂ\x0001Jumpin’ 2	
+Ｂ\x0001Jumpin’ 3	
+Ｂ\x0001Up & down with shake 1	
+Ｂ\x0001Up & down with shake 2	
+Ｂ\x0001Up & down with shake 3	
+Ｂ\x0001Walk in place 1	
+Ｂ\x0001Walk in place 2	
+Ｂ\x0001Walk in place 3	
+ＰＬ\x0001Ｂ\x0001Jumpin’: small	
+ＰＬ\x0001Ｂ\x0001Store then jump horizontally	
+ＰＬ\x0001Ｂ\x0001BALTOY: slow	
+ＰＬ\x0001Ｂ\x0001horizontal jump: slow	
+ＰＬ\x0001Ｂ\x0001Horiozonta jump: small	
+ＰＬ\x0001Ｂ\x0001ゆれながら\x0001さゆう	
+ＰＬ\x0001Ｂ\x0001ゆれながら\x0001じょうげ	
+ＰＬ\x0001Ｂ\x0001Cradle: slow	
+ＰＬ\x0001Ｂ\x0001Horizontal jump	
