@@ -187,7 +187,7 @@
 Если я одолею тебя, ты дашь мне еды?\r
 Мы так хотели еды... и победы...\n
 Эх... Я только больше проголодался...\nМожет, ягод пожевать...\rНет, это просто отвратительно.\nЯ же не Покемон, верно?\n
-Я... съел свой паёк до восхождения\nна гору.\rНа этот раз ты дашь мне еды если я\nтебя одолею!\r
+Я... съел свой паёк до восхождения\nна гору.\rНа этот раз ты дашь мне еды, если я\nтебя одолею!\r
 Сейчас я тебя размотаю!\r
 На размотали...\n
 Мне нужно больше тренироваться.\rКстати, если у тебя есть Боеискатель,\nто стоит им иногда пользоваться.\rНа повторных битвах можно стать\nсильнее гораздо быстрее.\n
@@ -366,7 +366,7 @@
 Пока я прятался, я размышлял над тем,\nо чём думают Покемоны в их покеболах.\n
 Ха! Ещё один шанс победить того, кто\nменя уже побеждал!\r
 Настоящий ниндзя умеет всё!\r
-Хм-м...\nМои приёмы нинздя не сработали...\n
+Хм-м...\nМои приёмы ниндзя не сработали...\n
 Где-то в мире есть лидер стадиона\nниндзя.\rЯ хочу стать таким же как он.\n
 Что такое?\nПочему ты ещё не ниндзя?\r
 Только не удивляйся, когда ты увидишь\nмоего Покемона!\r
@@ -1272,7 +1272,7 @@
                       
                                  
 Ого!\nНо это ещё не конец!\n
-Кажется, у меня небольшие проблемы, так?\n
+Кажется, у меня небольшие проблемы,\nтак?\n
 Я признаю поражение...\nТы сильнее меня.\n
 Мы - Четвёрка каратистов!\rЯ буду сражаться во имя любви!\nЗа любо-о-о-вь!\r
 Ай! Я разгромлен!\n
@@ -1396,12 +1396,12 @@
 Да, я бывалый тренер, но это не\nоправдание, чтобы не сражаться.\rЯ рад вступить в бой с теми, кто меня\nуже побеждал!\r
 Эх...\nЯ неправильно пользовался предметами.\n
 Мне нравится учиться...\nЯ думала, что выиграю...\n
-I’ll let you join my fan club if you can\nbeat me!\r
-Ouch! Are you one of those loyal\nfans? You sure are rowdy!\n
-Well, that’s me and my Pokémon!\nThank you for being such a fan!\rJust so you know, our latest single\nis “Jigglin’ Pokémon Wub”!\n
-I’ve spotted a charismatic Trainer!\nWe just might have a scoop here!\r
+Если одолеешь меня, я позволю тебе\nвступить в клуб моих фанатов!\r
+Ай! Ты из тех самых фанатов?!\nНеплохо сражаешься!\n
+Ну, вот и всё представление!\nНадеюсь на твою поддержку!\rИ кстати, название нашего недавнего\nальбома - 《Звонкое Поке-вау》!\n
+Замечен харизматичный тренер!\nКажется, у нас тут сенсация!\r
 Моя камера слишком тяжёлая.\nЯ не мог нормально сражаться...\n
-The lively expressions on you and\nyour Pokémon’s faces...\rIt sure makes for some great TV!\n
+Какие выразительные у ваших Покемонов\nлица...\rОтличная выйдет передача!\n
 Я чувствую... что нам нужно как\nследует зажечь!\r
 Я проиграл, но...\nЯ могу зажигать ещё круче!\n
 Зажигать надо от души!\nСражаться тоже надо от души!\fПоэтому сражаться - значит зажигать!\n
@@ -1593,98 +1593,98 @@ The lively expressions on you and\nyour Pokémon’s faces...\rIt sure makes for
 Эх... Оказывается, я прилетела в\nБоевую зону...\n
 Вообще, я родом из Хоэнна.\nПерелетела сюда не так давно.\n
 Я позволяю моим Покемонам-птицам\nделать всё, что им вздумается.\rА ещё мы здесь тренируемся!\r
-My Pokémon grew up in the arms of\nMother Nature. They’re tough!\r
-How could you be tougher than\nMother Nature?\n
-Most of the time, my Pokémon return\nto their Poké Balls right away.\rBut sometimes, they just fall asleep\non top of my head. That gets messy.
-The desire to win... That should be\nevident in every Trainer!\r
+Мои Покемоны росли у Матери-природы.\nОни очень сильные!\r
+Как ты можешь быть сильнее самой\nМатери-природы?\n
+Чаще всего мои Покемоны возвращаются\nв покеболы.\rНо иногда они засыпают у меня на\nголове и моя причёска портится.
+Жажда победы... должна быть у всех\nтренеров!\r
 Узри потенциал Драконьих Покемонов!\nЯ скоро стану чемпионом!\r
 Потенциал не означает победу...\n
 Чемпион и укротитель драконов...\rДля достижения такого результата мне\nнужно тренироваться куда больше...\n
 Я раскрыл потенциал моих Драконьих\nПокемонов!\rКак же сильно я ждал тебя!\r
-My Pokémon and I seek only victory!\r
-Arrrgh! My Pokémon...\n
-I failed my Pokémon!\nI wasn’t prepared enough to lead it!\rI don’t ever want my precious Pokémon\nto be humiliated again!\n
-You’ve beaten us once before, but we\nwon’t make the same mistake!\r
-Dragon Pokémon are sacred beings...\nThat’s what my master taught me.\rAnd now I’ll prove it to you!\r
-Not good enough!\nWe’re still not strong enough!\n
-It’s not good enough for a Pokémon\nto just be tough.\rIt’s not good enough for a Trainer\nto just work hard.\rBoth have to grow together!
-This time we’ll get it right!\rMarvel at the exquisite combination of\nmy Pokémon and myself!\r
-How do you do?\nI’m Stanley, and I’m a Dragon Tamer.\rWhat do you say we let our Pokémon\nhave it out? Sound OK to you?\r
-Victory!\nThat is, victory for you...\n
-It seems to me, there’s this certain\nimage that goes with a Dragon Tamer.\rBut me, I’d much sooner take it easy,\ntake it slow, and take it my own way.\rI figure there’s more than my style\nthat I need to work on first.\n
-Hey, how do you do again?\rWhat do you say we let our Pokémon\nhave at it again? Sound OK to you?\r
+Мы жаждем победы!\r
+А-а-а! Мой Покемон...\n
+Я подвёл моего Покемона!\nЯ не смог возглавить команду!\rЯ больше не хочу причинять вред моему\nлюбимому Покемону!\n
+Тогда тебе удалось нас одолеть, но на\nэтот раз я не допущу этого!\r
+Драконьи Покемоны - это священные\nсущества...\rЭтому меня учил мой наставник.\nСейчас и я преподам тебе урок!\r
+Этого мало!\nМы всё ещё недостаточно сильны!\n
+Покемону недостаточно быть сильным,\nа тренеру - лишь усердно трудиться.\rОни оба должны развиваться на равных!
+На этот раз всё получится!\rУзри воочию наш тандем!\r
+Здравствуйте! Как поживаете?\nЯ Стэнли, укротитель драконов.\rКак насчёт небольшой битвы?\nВы не против?\r
+Победа!\nНе моя, правда...\n
+Обычно всех укротителей драконов\nпредставляют строгими тренерами.\rНо лично я предпочитаю более мягкий,\nмедленный, но верный подход.\rЧто толку от строгости, если и других\nзабот хватает?\n
+Здравствуйте ещё раз!\nКак успехи?\rНе против, если мы проведём ещё одну\nбитву?\r
 Моей технике ведения боя чего-то не\nхватает...\rЯ пришёл сюда, чтобы понять, чего\nименно.\r
 Вот как...\nТеперь понятно, чего мне не хватает.\n
 Наше сражение открыло мне глаза.\rЯ усвоил кое-что очень важное.\n
 Ты знаешь, чего тебе не хватает\nв сражениях? Я знаю.\r
-I’ve got the urge to battle with you.\nHope you’re willing to oblige!\r
-I shouldn’t have paid attention\nto my urge...\n
-So long as my partner’s alongside me,\nI’m willing to take on the world!\n
-The urge to battle you again has\nstruck me. Want to humor me?\r
-Have you any knowledge of levels\nor the stats of Pokémon? Well, I do!\r
-Hmm. I like how you attack.\n
-Pokémon and numbers...\nWho cares about that stuff?\rWinning is what’s important.\nNumbers aren’t everything.\n
-Pokémon battles aren’t decided by\nnumbers.\rIt’s the bond you share with your\nPokémon that decides outcomes!\r
-Welcome to my Pokémon show!\r
-Did you enjoy the show?\nSuper fabulous, wasn’t it?\n
-I’ll be happy to battle you again!\nLet’s battle again sometime, yeah?
-Welcome to my new Pokémon show!\r
+У меня есть желание - сразиться\nс тобой.\rНадеюсь, ты его исполнишь!\r
+Не стоило мне потакать моему\nжеланию...\n
+Пока со мной рядом мои друзья - весь\nмир мне нипочём!\n
+Я снова желаю с тобой сразиться.\nИсполнишь?\r
+Ты знаешь про уровни и характеристики\nПокемонов? Я - да!\r
+Хм-м. Мне нравится, как ты атакуешь.\n
+Покемоны, цифры...\nКому это всё нужно?\rПобеда - вот что важно.\nА цифры это пустяк.\n
+В битвах Покемонов не важны цифры.\rВажно лишь то, насколько крепко ты\nс Покемонами дружишь!\r
+Добро пожаловать на моё неповторимое\nПоке-представление!\r
+Как тебе представление?\nЗдорово получилось, а?\n
+Буду рад сразиться ещё раз!\nТолько в другой раз, ага?
+Добро пожаловать на моё неповторимое\nПоке-представление!\r
 Я тренировал мою команду до упаду.\nОни уничтожат твоих Покемонов!\r
 Моих Покемонов просто уничтожили!\n
 Я скормил своей команде столько\nпротеина и углеводов...\rВ общем, откормил до упаду.\n
 Эй! Ты тот самый тренер, который\nуничтожил мою команду!\rНа этот раз я уничтожу тебя!\r
-I took great pains raising my partners.\nI’ll show you how strong I made them!\r
-It needs to be leveled more?!\n
-My Pokémon...\rThey’re the first friends I ever\ncaught. They mean everything to me!
-...When I close my eyes, I can picture\nhow we lost to you in vivid detail.\rBut, I’ve raised them since then! I’ll\nthrow their strength in your face!\r
+Мне нелегко дались тренировки моих\nдрузей.\rСейчас я покажу, какими сильными они\nстали!\r
+Нам нужно больше тренировок?!\n
+Мои Покемоны...\rОни были из числа первых, кого я\nпоймал.\rОни для меня многое значат!
+...Закрывая глаза, я только и вижу,\nкак мы проигрываем тебе.\rНо с тех пор я как следует подготовил\nмоих друзей к бою!\rСейчас я покажу их силу!\r
 В поисках достойных противников можно\nзабраться в такую даль...\r
 Ты определённо достойный противник...\n
 То, насколько сильно ты доверяешь\nсвоим Покемонам...\rЭто играет важную роль в успешной\nбитве.\n
 После нашей прошлой битвы я сразилась\nсо множеством противников, но все они\fоказались слишком слабыми...\rТолько ты можешь дать мне достойный\nотпор!\r
-Please don’t hold anything back.\r
-Hmm...\n
-I feel invigorated from that battle,\neven though we lost.\rAfter all, we gave it everything we\nhad.
-Hello again! Please don’t hold\nanything back--just like before.\r
-You’re willing to battle?\nLet me see what you have?\r
-Your love of Pokémon really shows!\n
-I grew up together with Felix and\nmy team, right from my childhood.\rAll our memories, we’ve always shared\nthem.\n
-Oh, hi, we meet again.\rMay I see what you’ve done with your\nPokémon?\r
-The world is huge, and there are\nso many different Pokémon!\rWhat kinds of Pokémon are with you?\nPlease, I want to have a look!\r
-Wow, there are Pokémon that\nwonderful!\n
-There is always something to like\nabout any Pokémon.\rIt’s so hard to decide which ones\nI should raise.\n
-If I’m having trouble deciding,\nI go with my favorites!\r
-What sort of moves have you taught?\nThat tells me how good you are!\r
-Yowch!\n
-I heard that somewhere there’s\nsomeone who teaches Pokémon moves.\n
-Have you taught your team any new\nmoves since last time?\r
-When eyes meet...\nThat’s when a battle starts!\r
-You won’t let me win?\n
-I suddenly remembered what it was \nlike when I had my first battle.\rI wonder why that would be?\n
-When eyes meet...\nThat’s when a battle starts!\fThat’s what makes us Trainers!\r
-You’re going to win!\nThat’s the future I saw!\r
-What I saw in the future turned out\nto be true...\n
-I lost, but my vision of the future\ncame true...\n
-You’re going to win again!\nThat’s the future I saw!\r
+Только не поддавайся мне.\r
+Хм...\n
+Хоть мы и проиграли, но я не чувствую\nпечали.\rВедь мы не поддавались. 
+И снова привет! Только не поддавайся\nмне - как и прежде.\r
+Хочешь сразиться?\nПокажешь свою команду?\r
+Вижу, ты любишь Покемонов!\n
+Я познакомилась с Феликсом и моей\nкомандой, когда была ещё ребёнком.\rМожно сказать, что я выросла вместе\nс ними.\n
+О, привет.\nКакая встреча.\rМожно посмотреть на твоих Покемонов?\r
+Мир огромен! В нём живёт столько\nразных Покемонов!\rА какие у тебя Покемоны? Пожалуйста,\nдай мне на них посмотреть!\r
+Ого, какие классные Покемоны!\n
+В каждом Покемоне можно найти что-то\nхорошее.\rВсегда трудно выбирать, кого именно\nтренировать.\n
+Если я не могу выбрать Покемона, то\nвозьму своих любимых!\r
+Какие приёмы знают твои Покемоны?\rОт этого зависит то, насколько ты\nхороший тренер!\r
+Ой-ёй!\n
+Говорят, что некоторые люди могут\nобучить Покемонов новым приёмам.\n
+Твоя команда научилась каким-нибудь\nновым приёмам?\r
+Встретились взглядом...\nЗначит, начинается битва!\r
+Ты не позволишь мне победить?\n
+Я вдруг вспомнила свою первую битву.\nИнтересно, почему?\n
+Встретились взглядом...\nЗначит, начинается битва!\fИменно поэтому мы тренеры!\r
+Я знаю твоё будущее!\nТы победишь!\r
+Я предвидел верное будущее...\n
+Я проиграл, но предвидел всё верно...\n
+Я знаю твоё будущее!\nТы снова победишь!\r
 После нашего разговора ты отправишь\nсвоих Покемонов в бой!\r
 После нашей битвы я послушно отдам\nтебе все мои деньги...\n
 Что ты будешь делать потом?\rМожет, решишь самостоятельно?\nТак будет даже веселее!\n
 После нашего разговора ты метнёшь\nсвой покебол!\r
-My quest for power brought me here.\rIt was beneath the desert sand that\nI toughened my body and soul.\rAccept my challenge! Uraah!\r
-My spirit is broken...\n
-I thought I couldn’t win before it\nbecame a fact...\rI’ve let down my Pokémon...\rThey go to battle with faith in\ntheir Trainer...
-This time! This time I will win!\nMy spirit is renewed and strong!\r
-I have meditated under a waterfall\nto temper my spirit.\rAllow me to demonstrate its strength!\r
-Ha-choo! Sniffle...\n
-All that time under the waterfall...\nSeems I’ve caught a cold.\n
-Since the day I lost to you, I’ve\nmeditated under a waterfall!\r
-People! Nature! Pokémon!\nHarmony is essential!\r
-You’re A-OK!\n
-Protecting Pokémon and nature.\nThink of what that means.\n
-Do you remember my slogan?\nPeople! Nature! Pokémon!\rThat’s right, harmony is essential!\r
-I work to protect beautiful, natural\nenvironments.\rMy Pokémon are my constant\ncompanions while I work.\r
-Oh, my gosh!\nMy poor Pokémon!\n
-Everyone can do their part to keep\nnature clean. It doesn’t take much.\n
-I’m on patrol in pristine nature\nwith my Pokémon like usual.\rCome to think of it, you’re always\nwith Pokémon, too.\r
+Меня привела сюда жажда силы.\rВ этих пустынных землях я закалил\nсвои тело и душу.\rЯ бросаю тебе вызов!\nР-р-ра-а!\r
+Я разгромлен...\n
+В какой-то момент мне показалось, что\nя не смогу победить, и вот, так и\fслучилось...\rЯ подвёл моих Покемонов...\rОни верили в своего тренера...
+На этот раз я тебя одолею!\nЯ снова готов к бою!\r
+Я медитировал под водопадом, чтобы\nзакалить свой дух.\rПозволь мне продемонстрировать его\nсилу!\r
+Апчхи! Шмыг...\n
+Из-за этого водопада... я простудился.\n
+С того дня, как я проиграл тебе,\nя медитировал под водопадом!\r
+Люди! Природа! Покемоны!\nГармония - наше всё!\r
+Ты хороший тренер!\n
+Подумай, каково это - защищать\nприроду и Покемонов.\n
+Помнишь мой девиз?\nЛюди! Природа! Покемоны!\rГармония - наше всё!\r
+Моя работа - защищать природу.\nПокемоны мне в этом помогают.\r
+О, нет!\nМои бедные Покемоны!\n
+Все могут держать природу в чистоте.\nЭто не так уж и сложно.\n
+Я патрулирую округу со своими\nПокемонами.\rЕсли так подумать, ты ведь тоже\nвсегда рядом со своими Покемонами.\r
 Мы патрулируем округу, наводим\nпорядок...\rИ иногда сражаемся!\r
 Спасибо!\n
 Благодаря свойству 《Подбор》, Покемон\nиногда может подбирать случайные\fпредметы.\rЭто даже экологично.\nЯ очищаю природу от мусора!\n
@@ -1693,97 +1693,97 @@ I’m on patrol in pristine nature\nwith my Pokémon like usual.\rCome to think 
 Твои Покемоны такие сильные.\nИ от этого мне грустно...\n
 Не важно, где они росли.\rЛюбой Покемон может стать сильным,\nстоит только этого захотеть.\n
 В сражениях закаляются и тренеры,\nи Покемоны!\r
-We’ve grown strong together in\nnature and in the concrete jungle.\rWe make everywhere we go our\nplayground!\r
-You’re really tough, aren’t you?!\n
-Look around you at this wildly\ncontorted terrain.\rIt’s no wonder that Pokémon would\ngrow tough in a place like this.\n
-We’re tough, but we know you’re just\nas tough!\rLet’s battle it out to see which one of\nus is tougher!\r
-Are you getting worn out from all\nthe running you’ve done?\r
-You’re not tired at all?!\n
-The world is full of Pokémon and all\nsorts of Trainers.\n
-What do you think of the Battle\nZone?\rYou’ve met so many Pokémon...\nI’ve got to battle you again!\r
-A Trainer riding a Pokémon!\nI like that! Let’s battle it out!\r
-Awesome!\nYou’re a real wild child!\n
-You ride atop the waves while riding on\na Pokémon!\rAnd you rode right over me!\n
-Yo, Pokémon-riding Trainer!\nHow about a rematch?\r
-Check out my physique! The rough\nseas sculpted this awesome body!\r
-I’ve got a muscular physique, but\nthere’s no strength behind it...\n
-Seeing a Pokémon use Surf to carry you\nout on the sea...\rIt strikes an emotional chord with me\nsomewhere deep down.\n
-The rough seas almost drowned...\n...I mean, sculpted this awesome body!\rLet my chiseled physique inspire you!\r
-Check out my dynamic form!\nVictory is assured!\r
-Oh.\nThat’s how it is.\n
-Being a good swimmer doesn’t make\nme any better as a Trainer...\n
-Hi! You’re that kid who’s great with\nPokémon!\rI’ll battle with an even more dynamic\nform than before! Watch me now!\r
-Me and my Pokémon are pumped up\nand ready to go all out!\r
-Our muscles are deflating...\n
-Overwhelm with our dazzling physiques!\nThat was our game plan...\n
-Me and my Pokémon are pumped up!\nSee, our muscles are twitching!\r
-People keep coming to us for battles.\nI really don’t know why! Teehee!\r
-OK, we lost.\n
-I wanted to be alone, but swatting\naway immature boys on the prowl...\rWell, my Pokémon grew tough without\nme really even trying.\n
-People still keep coming to us for\nbattles! Why?! Leave me alone!\r
-Are your Pokémon growing properly?\r
-Maybe too grown up!\n
-I’ve grown with my Pokémon, too.\nMy swimsuit’s getting a little tight...\n
-Did your Pokémon grow any more?\rMy Pokémon?\nMine are doing awesome!\r
-I’m a mermaid drifting among the\nwaves...\rAnd a high-spirited gal who battles with\nPokémon!\r
-Losing...\nMakes my tears well up.\n
-A mermaid’s tears are so salty...\n
-I’m still a mermaid drifting among the\nwaves...\rAnd a high-spirited gal who battles with\nPokémon!\r
-I want to be with my water Pokémon!\nThat’s why I swim!\r
-Glub glub...\nI’m sinking...\n
-I thought that everyone would be all\ndedicated to training out here.\rBut most people are really laid back.\nIt’s not like what I imagined.\rI guess being with Pokémon, people get\nall mellowed out.\n
-I want to be with water Pokémon!\nThat’s why I’m going to get tougher!\r
+Мы тренировались на природе и в\nкаменных джунглях.\rКуда бы мы ни пошли - мы везде\nпреуспеем!\r
+Ты сильный тренер, так?!\n
+Взгляни на этот искажённый ландшафт.\rНеудивительно, что местные Покемоны\nтакие сильные.\n
+Мы сильны, но нам известна и твоя\nсила!\rСразимся же! Узнаем, кто из нас\nсильнее!\r
+Ещё не утомился от беготни, тренер?\r
+Как не утомился?!\n
+В мире много разных Покемонов\nи тренеров.\n
+Как тебе Боевая зона?\rТебе удалось встретить столько\nПокемонов...\nЯ сражусь с тобой ещё раз!\r
+Тренер на Покемоне!\nВот это мне нравится! К бою!\r
+Здорово!\nТы молодец, тренер!\n
+Ты катаешься по волнам верхом на\nПокемоне!\rДаже меня удалось переехать!\n
+Йо, тренер-наездник на Покемоне!\nМожет, сразимся ещё раз?\r
+Взгляни-ка на мои мускулы!\rКоварные воды сделали из меня\nкрасавца!\r
+У меня, конечно, есть мускулы, но\nсилы нет...\n
+Позволить Покемону катать тебя по\nморям...\rЭто вызывает у меня противоречивые\nчувства.\n
+Коварные воды потопили...\n...Вернее, закалили моё тело!\rМоя физиология потрясёт тебя до\nглубины души!\r
+Взгляни на мою динамичность!\nПобеда будет за мной!\r
+А...\nВот, значит, как.\n
+Если я хороший пловец, то это не\nзначит, что я хороший тренер...\n
+Привет!\nТы тот самый умелый тренер!\rЯ буду сражаться ещё динамичнее, чем\nраньше! Берегись!\r
+Сейчас мы покажем тебе нашу\nмускулатуру!\r
+Наши мускулы никуда не годятся...\n
+Покорить всех своими мускулами!\nВот что я хотел...\n
+Мы готовы!\nВзгляни на наши мускулы!\r
+Все постоянно хотят с нами сражаться.\nПочему - не знаю! Хи-хи!\r
+Ладно, мы проиграли.\n
+Я так хотела побыть одна, но вместо\nэтого мне пришлось отбиваться от\fвсяких шаловливых личностей...\rНу, хотя бы мои Покемоны стали\nсильнее, мне даже для этого стараться\fне пришлось.\n
+Все постоянно хотят с нами сражаться!\nЗачем?! Оставьте меня в покое!\r
+Как растут твои Покемоны?\r
+Слишком переросли!\n
+Я тоже выросла вместе с моими\nПокемонами.\rКажется, купальник мне жмёт...\n
+Твои Покемоны подросли?\rМои?\nС моими всё в порядке!\r
+Я плывущая по волнам русалка...\rИ опытный тренер Покемонов!\r
+Проиграла...\nКак же грустно.\n
+Слёзы русалки такие солёные...\n
+Я всё ещё плывущая по волнам\nрусалка...\rИ опытный тренер Покемонов!\r
+Я хочу быть рядом с моими Водными\nПокемонами! Поэтому и плаваю!\r
+Буль-буль...\nЯ тону...\n
+Я считала, что местные тренеры здесь\nтренируются, но, как оказалось,\fбольшинство из них тут отдыхают.\rНе так я себе представляла это место.\rВидимо, из-за Покемонов люди иногда\nпозволяют себе расслабиться.\n
+Я хочу быть рядом с моими Водными\nПокемонами! Поэтому и тренируюсь!\r
                                                                  
                     
                                                          
-With one mighty flap, my birds blow\naway the embers of aggression!\r
-We failed to get off the ground...\n
-The HM Fly isn’t useful inside caves.\nIt’s such a shame.\n
-Dragons and a fiery mountain...\nIt’s a totally classic setup!\r
-Losing isn’t a happy occasion...\n
-My Pokémon seem to like it here\na lot.\n
-Are you seeking the mythical\nPokémon, too? Let’s battle, then!\r
-There’s nothing left...\n
-The mythical Pokémon that sleeps\ndeep in a volcano...\rCould it be a dragon Pokémon?\n
-What it means to win battles...\nThat is what I seek.\fTeach me if you will!\r
-I grow less certain still...\n
-Perhaps there is no meaning to\nvictory, but still I will battle!\rThat is what makes me a Trainer!\n
-Let me ask to see if you know.\nWhat is time?\r
-Another memory...\nIn a chain of memories.\n
-For me, time is the fabric woven by\nmemories, one after another...\n
-I was born in Floaroma Town.\nI’m sure thrilled to be here.\rIt took a long time to get here.\nWe’re not going to lose again!\r
-We went down...\nWe couldn’t stick it out...\n
-You can level all you want, but that\nwon’t guarantee you any wins.\rBut we keep trying to get better.\nThat’s what makes us Trainers.\n
-The Trainers and Pokémon that gather\nhere aren’t pushovers.\fThey all have tricks up their sleeves!\r
-You’re not a Trainer that can be\ntaken lightly!\n
-The Pokémon you’ll meet here won’t\nmake it easy for you to move onward.\n
-You’ve come all this way for Pokémon?\nYou must be dedicated.\r
-Your dedication won out.\n
-The Pokémon here must battle each\nother all the time.\rThat must be why they are so strong\nin this area.\n
-Can you answer this for me?\nWhat is space?\r
-And another...\nA new memory was born.\n
-For me, space is where memories are\nmade...\n
-I came here after winning my way\nthrough the Battle Tower!\r
-But...\nI had a win streak going...\n
-Train more at the Battle Tower...\nThat’s what I’ll do.\n
-We’re all good to go!\nWe just have to battle now!\r
-Aww...\nI’m out of useful items!\n
-We came completely unprepared for\nthis little adventure...\n
-I had a revelation this morning.\rI knew that I would have a wonderful\nencounter here today.\r
-There’s nothing wonderful about this!\n
-Is my sense of premonition nothing\nto write home about?\n
-I’ll use my mystifying psychic power\nto pulverize you!\r
-That’s what I get for making idle\nclaims...\n
-Psychic power is a mystery that\ndefies explanation.\rBut if everything could be explained,\nit would be a boring world.
-My Pokémon can destroy anything.\nAnd you think you can win?!\r
-We weren’t up to the task!\n
-Even though my team could break\nbricks and shatter boulders, they\ffailed to dent your spirits!\n
-Hear the howl of my iron fists!\nHowdy! I’m crazy for karate!\r
-Losing made it clear to me.\nYou’re crazy about Pokémon!\n
-I love seeing people who love Pokémon\nmore than anything!\n
-What do you expect to achieve here?\nI’ll be the one to make that call!\r
-You’ve earned the right to be here.\nBoth you and your Pokémon.\n
-You may find it odd, but the stink\nof sulfur from the volcanic gas\fis what draws me here.\n
+Мои птицы утихомирят тебя одним\nвзмахом крыла!\r
+Мы не взлетели...\n
+НМ 《Полёт》 не позволяет летать\nв пещерах. Какая жалость.\n
+Драконы, вулканы...\nКлассика!\r
+Мне не понравилось поражение...\n
+Похоже, моим Покемонам понравилось\nэто место.\n
+Ты тоже ищешь мифического Покемона?\nТогда сразимся!\r
+Ничего не получилось...\n
+Мифический Покемон, спящий в недрах\nвулкана...\rДракон ли это?\n
+Я хочу узнать секрет победы...\nРаскрой мне его!\r
+Я всё ещё ничего не знаю...\n
+Возможно, победа не имеет значения,\nно я всё равно буду сражаться!\rИменно это делает меня настоящим\nтренером!\n
+Ответь мне на вопрос.\nЧто есть время?\r
+Очередное событие...\nВ веренице воспоминаний.\n
+Как по мне, время - это вереница\nвоспоминаний, сотканных в единую\fткань...\n
+Я родом из Флоаромы.\nРад оказаться здесь.\rСюда долго добираться.\nНа этот раз я не проиграю!\r
+Мы проиграли...\nНе справились...\n
+Можно тренироваться сколько угодно,\nно победы это не гарантирует.\rВпрочем всегда можно стать лучше.\nПоэтому мы и тренеры.\n
+Все местные тренеры непростые\nпротивники.\rУ них всегда есть туз в рукаве!\r
+Тебя нельзя недооценивать!\n
+Местные Покемоны не дадут тебе и шагу\nступить.\n
+Ты здесь ради Покемонов?\nВот это упёртость.\r
+Твоя упёртость победила.\n
+Местные Покемоны постоянно сражаются\nдруг с другом.\rНаверное именно поэтому они такие\nсильные.\n
+Ответь мне на вопрос.\nЧто есть пространство?\r
+Ещё одно...\nНовое воспоминание.\n
+Как по мне, пространство - это то,\nгде рождаются воспоминания...\n
+Я победила несколько раз в Боевой\nбашне и пришла сюда!\r
+Но...\nЯ же побеждала...\n
+Потренируюсь-ка я в Боевой башне...\nДа, так и сделаю.\n
+Мы в полном порядке!\nНам всего лишь нужно сразиться!\r
+Ой...\nУ меня предметы закончились!\n
+Что-то мы не подготовились к этому\nмаленькому приключению...\n
+Сегодня утром мне явилось видение.\rЯ узнал, что сегодня со мной\nпроизойдёт что-то чудесное.\r
+В этом не было ничего чудесного!\n
+Неужели моему предчувствию больше\nнельзя доверять?\n
+Я уничтожу тебя своими психическими\nсилами!\r
+Вот к чему приводят необдуманные\nслова...\n
+Психическая сила - это тайна, которую\nневозможно объяснить.\rОднако мир был бы слишком скучным,\nесли бы его можно было полностью\fобъяснить.
+Мои Покемоны могут сломать всё, что\nугодно.\rДумаешь, что одолеешь нас?!\r
+Мы проиграли!\n
+Моя команда умеет ломать камни\nи валуны, но ей не удалось сломить\fтвой дух!\n
+Услышьте вой моих кулаков!\nПривет! Я любитель карате!\r
+Из нашей битвы я кое-что понял.\nТы любишь Покемонов!\n
+Мне нравятся люди, которым нравятся\nПокемоны!\n
+Чего ты здесь добиваешься?\nСейчас я узнаю!\r
+Ты заслуживаешь право идти дальше.\nИ твои Покемоны тоже.\n
+Возможно, это покажется странным, но\nменя привлекает сюда запах серы,\fкоторый исходит от вулканических\fгазов.\n
                                                                                      
      
                                                             
@@ -1977,33 +1977,33 @@ You may find it odd, but the stink\nof sulfur from the volcanic gas\fis what dra
 Даже не вспомню, когда я в последний\nраз оказывалась в такой ситуации!\n
 Я не позволю так просто завершить\nсражение! Эта битва слишком весёлая!\n
 ...Несколько минут назад за тобой\nбыло звание сильнейшего претендента.\rНо теперь ты являешься сильнейшим из\nтренеров.\rТы - новый чемпион!\n
-You got Pokémon! I got Pokémon!\nLet’s see whose Pokémon is the best!\r
-I give up! You’re too much!\nAre you maybe a Pokémon genius?\n
-Making Pokémon battle each other\nmakes them tougher, you know?\n
-Hi, what kinds of Pokémon do you\nhave with you?\rI’ll show you my Pokémon while we\nhave a battle.\r
-Huh? It’s over already?!\nI thought I’d win for sure!\n
-You’re too tough!\nI won’t battle you again!\rJust joking! I’ll challenge you again\nwhen I level up my Pokémon.\n
-You’re a Pokémon Trainer, and so\nam I.\rWhen Trainers lock eyes, that means\na battle is on!\r
-Losing makes me mad, but that\nwas still a bunch of fun!
-With Pokémon that tough, I bet you\ncould go anywhere in Sinnoh!\n
-You got Pokémon! I got Pokémon!\nLet’s see whose Pokémon is the best!\r
-I give up! You’re too much!\nAre you maybe a Pokémon genius?\n
-Making Pokémon battle each other\nmakes them tougher.\n
-Hi, what kinds of Pokémon do you\nhave with you?\rI’ll show you my Pokémon while we\nhave a battle.\r
-Huh? It’s over already?!\nI thought I’d win for sure!\n
-You’re too tough!\nI won’t battle you again!\rJust joking! I’ll challenge you again\nwhen I level up my Pokémon.\n
-You’re a Pokémon Trainer, and so\nam I.\rWhen Trainers lock eyes, that means\na battle is on!\r
-Losing makes me mad, but that\nwas still a bunch of fun!
-With Pokémon that tough, I bet you\ncould go anywhere in Sinnoh!\n
-You got Pokémon! I got Pokémon!\nLet’s see whose Pokémon is the best!\r
-I give up! You’re too much!\nAre you maybe a Pokémon genius?\n
-Making Pokémon battle each other\nmakes them tougher.\n
-Hi, what kinds of Pokémon do you\nhave with you?\rI’ll show you my Pokémon while we\nhave a battle.\r
-Huh? It’s over?!\nI thought I’d win!\n
-You’re too tough!\nI won’t battle you again!\rJust joking! I’ll challenge you again\nwhen I level up my Pokémon.\n
-You’re a Pokémon Trainer, and so\nam I.\rWhen Trainers lock eyes, that means\na battle is on!\r
-Losing makes me mad, but that\nwas still a bunch of fun!
-With Pokémon that tough, I bet you\ncould go anywhere in Sinnoh!\n
+У тебя есть Покемоны!\nИ у меня есть Покемоны!\rПосмотрим, чьи Покемоны лучше!\r
+Я сдаюсь! Ты сильнее меня!\nТы, наверное, гениальный тренер?\n
+Когда Покемоны сражаются, они\nстановятся сильнее.\n
+Привет, а какие у тебя Покемоны?\rПока мы сражаемся, я покажу тебе\nсвоих.\r
+Что? Уже всё?!\nМне казалось, что я выиграю!\n
+Ты сильнее меня!\nНе буду больше с тобой сражаться!\rШутка! Я просто потренирую своих\nПокемонов и сражусь с тобой позже.\n
+Ты тренер Покемонов и я тоже.\rКогда тренеры встречаются взглядами,\nначинается битва!\r
+От поражения мне грустно, но сражение\nбыло весёлым!
+С такими сильными Покемонами в Синно\nты не затеряешься!\n
+У тебя есть Покемоны!\nИ у меня есть Покемоны!\rПосмотрим, чьи Покемоны лучше!\r
+Я сдаюсь! Ты сильнее меня!\nТы, наверное, гениальный тренер?\n
+Когда Покемоны сражаются, они\nстановятся сильнее.\n
+Привет, а какие у тебя Покемоны?\rПока мы сражаемся, я покажу тебе\nсвоих.\r
+Что? Уже всё?!\nМне казалось, что я выиграю!\n
+Ты сильнее меня!\nНе буду больше с тобой сражаться!\rШутка! Я просто потренирую своих\nПокемонов и сражусь с тобой позже.\n
+Ты тренер Покемонов и я тоже.\rКогда тренеры встречаются взглядами,\nначинается битва!\r
+От поражения мне грустно, но сражение\nбыло весёлым!
+С такими сильными Покемонами в Синно\nты не затеряешься!\n
+У тебя есть Покемоны!\nИ у меня есть Покемоны!\rПосмотрим, чьи Покемоны лучше!\r
+Я сдаюсь! Ты сильнее меня!\nТы, наверное, гениальный тренер?\n
+Когда Покемоны сражаются, они\nстановятся сильнее.\n
+Привет, а какие у тебя Покемоны?\rПока мы сражаемся, я покажу тебе\nсвоих.\r
+Что? Уже всё?!\nМне казалось, что я выиграю!\n
+Ты сильнее меня!\nНе буду больше с тобой сражаться!\rШутка! Я просто потренирую своих\nПокемонов и сражусь с тобой позже.\n
+Ты тренер Покемонов и я тоже.\rКогда тренеры встречаются взглядами,\nначинается битва!\r
+От поражения мне грустно, но сражение\nбыло весёлым!
+С такими сильными Покемонами в Синно\nты не затеряешься!\n
 Стал ли я сильнее с нашей прошлой\nвстречи? Я... Ну смотри!\r
 Слишком сильный!\nСлишком сильный!
 Стал ли я сильнее с нашей прошлой\nвстречи? Я... Ну смотри!\r
@@ -2280,32 +2280,32 @@ With Pokémon that tough, I bet you\ncould go anywhere in Sinnoh!\n
 Сила, что дремлет в тебе...\nПоистине невероятна...\n
 Да, я бывалый тренер, но это не\nоправдание, чтобы не сражаться.\rЯ рад вступить в бой с теми, кто меня\nуже побеждал!\r
 Понятно...\nПросто превосходный тренер.
-I let my bird Pokémon do as they\nwish. And so, we train here daily!\r
-Sheesh... I arrive in a new place and\nit turns out to be the Battle Zone...\n
-I’ve cranked up my dragon Pokémon’s\nabilities!\rI’ve been looking forward to seeing\nyou again!\r
-Raising abilities alone doesn’t mean\nI can win either...\n
-What’s missing from my game...\nHave you discovered yours yet?\r
-I see it now...\n
-The urge to battle you again has\nstruck me. Humor me!\r
-I shouldn’t have paid attention\nto my urge...\n
-We’ve faced many challengers since\nwe met, but they were all weak...\rI relish the tough resistance that\nonly you can provide!\r
-I’ve found a tough adversary in\nyou...\n
-Hello again! Please don’t hold\nanything back, just like before.\r
-Hmm...\n
-You’re going to win again!\nThat’s the future I saw!\r
-What I saw in the future turned out\nto be true...\n
-Right after this, you will hurl a Poké\nBall in an astonishingly cool manner!\r
-Right after this, I have to pay\nout your prize money...\n
-This time! This time I will win!\nMy spirit is renewed and strong!\r
-My spirit is broken...\n
-Do you remember my slogan?\nPeople! Nature! Pokémon!\rThat’s right. Harmony is essential!\r
-You’re A-OK!\n
-By battling tough opponents, both\npeople and Pokémon grow tough!\r
-My, you are tough.\n
-Yo, Pokémon-riding Trainer!\nHow about a rematch?\r
-Awesome!\nYou’re a real wild child!\n
-People still keep coming to us for\nbattles! Why?!\r
-OK, we lost.\n
+Я позволяю моим Покемонам-птицам\nделать всё, что им вздумается.\rА ещё мы здесь тренируемся!\r
+Эх... Оказывается, я прилетела в\nБоевую зону...\n
+Я раскрыл потенциал моих Драконьих\nПокемонов!\rКак же сильно я ждал тебя!\r
+На одном потенциале далеко не\nуедешь...\n
+Чего не хватает в моей игре... Ты уже\nзнаешь, чего не хватает в твоей?\r
+Теперь всё понятно...\n
+У меня есть желание - сразиться\nс тобой.\rНадеюсь, ты его исполнишь!\r
+Не стоило мне потакать моему\nжеланию...\n
+После нашей прошлой битвы я сразилась\nсо множеством противников, но все они\fоказались слишком слабыми...\rТолько ты можешь дать мне достойный\nотпор!\r
+Ты серьёзный противник...\n
+Привет ещё раз! Не поддавайся мне,\nкак и тогда.\r
+Хм...\n
+Я знаю твоё будущее!\nТы снова победишь!\r
+Я предвидел верное будущее...\n
+После нашего разговора ты метнёшь\nсвой покебол!\r
+После нашей битвы я отдам тебе мои\nденьги...\n
+На этот раз я тебя одолею!\nЯ снова готов к бою!\r
+Я разгромлен...\n
+Помнишь мой девиз?\nЛюди! Природа! Покемоны!\rГармония - наше всё!\r
+Ты молодец!\n
+В сражениях закаляются и тренеры,\nи Покемоны!\r
+Ого, ты сильнее меня.\n
+Йо, тренер-наездник на Покемоне!\nМожет, сразимся ещё раз?\r
+Здорово!\nТы молодец, тренер!\n
+Все постоянно хотят с нами сражаться!\nЗачем?!\r
+Ладно, мы проиграли.\n
                                                     
                                  
 Значит, я талантлив только как\nхудожник?\n
@@ -2369,18 +2369,18 @@ OK, we lost.\n
 Нет!\nЭтого не может быть!\rЯ стольким ради этого пожертвовал!\rЧто теперь станет с моим миром?!\nМоей новой галактикой?!\rНеужели моя мечта разбилась о твою\nреальность?!\n
 Я хочу плакать...\nМоё сердце разбито...\n
 Они слишком сильные!\nНам с ними не справиться!\n
-Oh, yeah? When the going gets tough,\nmy Pokémon get tougher!\n
-What just went down?!\nYou’re telling me I lost again?!\n
-Oh, yeah? When the going gets tough,\nmy Pokémon get tougher!\n
-What just went down?!\nYou’re telling me I lost again?!\n
-Oh, yeah? When the going gets tough,\nmy Pokémon get tougher!\n
-What just went down?!\nYou’re telling me I lost again?!\n
-I’m not giving up till the end!\nI can’t give up!\n
-What just went down?!\nYou wait! I’ll get tougher!\n
-I’m not giving up till the end!\nI can’t give up!\n
-What just went down?!\nYou wait! I’ll get tougher!\n
-I’m not giving up till the end!\nI can’t give up!\n
-What just went down?!\nYou wait! I’ll get tougher!\n
+Ах, вот как? Если у нас всё плохо,\nэто повод стать сильнее!\n
+Что пошло не так?!\nПочему я снова проиграл?!\n
+Ах, вот как? Если у нас всё плохо,\nэто повод стать сильнее!\n
+Что пошло не так?!\nПочему я снова проиграл?!\n
+Ах, вот как? Если у нас всё плохо,\nэто повод стать сильнее!\n
+Что пошло не так?!\nПочему я снова проиграл?!\n
+Я никогда не сдамся!\nЯ не могу сдаться!\n
+Что пошло не так?!\nНичего, я стану сильнее, вот увидишь!\n
+Я никогда не сдамся!\nЯ не могу сдаться!\n
+Что пошло не так?!\nНичего, я стану сильнее, вот увидишь!\n
+Я никогда не сдамся!\nЯ не могу сдаться!\n
+Что пошло не так?!\nНичего, я стану сильнее, вот увидишь!\n
 Если я сражусь с тобой, то собьюсь\nли я с темпа?\r
 Я сбился с темпа...\n
 Если я сражусь с тобой, то собьюсь\nли я с темпа?\r
@@ -2437,59 +2437,59 @@ What just went down?!\nYou wait! I’ll get tougher!\n
 О, нет!\n
 Ваша сила невероятна.\nВы нас просто уничтожили!\n
 ...\n
-No way! Not yet!\nNot giving up!\n
-W-what? That can’t be!\nMy buffed-up Pokémon!\n
-Are you saying something?\nYou think you have me cornered?\n
-Amazing!\nYou’re very good, aren’t you?\n
-If we turn it around here, the\nspectators will be stoked!\n
-That puts a grin on my face!\nGuhahaha! That was a blast!\n
-This is like back at the Gym, isn’t it?\nI’m in a bit of a bind, aren’t I?\n
-I’m forced to admit defeat again...\nYou are much too strong.\n
-It is too difficult, but...\nNever give up, never surrender!\n
-You are so fantastically strong.\nI know why I have lost.\n
-Not yet!\nYou can’t break our will!\n
-You’re mighty!\nYou’re worthy of lots of respect.\n
-We’re not done yet!\nThere’s no giving up!\n
-Hmm!\nMy sturdy Pokémon--defeated!\n
-You methodically corner me!\nJust like before!\n
-I even felt thrilled during our\nmatch.\rThat was a very good battle.\n
-I can’t keep up with healing...\n
-Striking the right balance of offense\nand defense... It’s not easy to do.\n
-Your team!\nI sense your strong aura!\n
-At times we battle, and sometimes we\nteam up...\rIt’s great how Trainers can interact.\n
-...My time with you is drawing to a\nclose...\n
-...Awww.\n
-Now this!\nThis is a smoking-hot situation!\n
-Heeheehee!\nSo hot, you!\n
-Oh, no!\nYou’re too much for me!\n
-Mira wonders if she can get very far in\nthe Battle Tower.\n
-What’s with you?!\nDo you have a vendetta against me?!\n
-Humph! Quit flaunting your toughness!\nIt’s not cute in the least!\n
-Oh, dear... The trouble with fun is that\nit is over so quickly.\n
-Wow!\nYou’re out of this world!\n
-You are good, you!\nMy Pokémon, they have enjoyed it, too!\n
-My Pokémon can’t be faulted with\nanything.\rYour brilliance carried the day.\n
-It’s not over yet!\nA League Elite Four can’t give up!\n
-I will now concede defeat.\rBut I think you came to see how\ngreat Bug-type Pokémon can be.\rI hope you also realized what you’re\nup against in the Pokémon League.\rBattling is a deep and complex\naffair...\n
-Dear child, don’t assume for an\ninstant that you’ve won.\n
-Well! Dear child, I must say, that\nwas most impressive.\rYour Pokémon believed in you and did\ntheir best to earn you the win.\rEven though I’ve lost, I find myself\nwith this silly grin!\n
-I can feel your determination.\nYour will is overpowering me!\n
-This situation...\nThis is heating up! I’m blazing now!\n
-...!\rI don’t believe it! I lost!\nI didn’t take you for granted...\rBut I never expected you to win!\nI’d never even considered it!\rI’m blown away by this!\nYou and your Pokémon are hot stuff!\n
-Hmm...\nNow what should I do...\n
-I see...\rYour getting past the three before\nme was no fluke. Your power is real.\n
-I can’t remember the last time I\nwas put in a corner like this!\n
-I won’t let this end yet! This match\nis too fun to let it end this easily!\n
-...Just a few minutes ago, you were\nthe most powerful challenger.\rAnd just now, you became the most\npowerful of all the Trainers.\rYou are now our newest Champion!\n
-No way! I won’t give up!\nThere’s never any giving up!
-What was that about?!\rI’m going to get tougher, though!\nTougher with these guys!\n
-No way! I won’t give up!\nThere’s never any giving up!
-What was that about?!\rI’m going to get tougher, though!\nTougher with these guys!\n
-No way! I won’t give up!\nThere’s never any giving up!
-What was that about?!\rI’m going to get tougher, though!\nTougher with these guys!\n
-Ouch! Are you one of those loyal\nfans? You sure are rowdy!\n
+Ни за что! Нет!\nМы не сдадимся!\n
+Ч-что? Не может быть!\nМои Покемоны!\n
+Что говоришь?\nДумаешь, мы зажаты в угол?\n
+Превосходно!\nТы замечательный тренер!\n
+Если мы выложимся на полную, зрители\nбудут в восторге!\n
+Я аж заулыбался!\nХа-ха-ха! Это было круто!\n
+Прямо как в старые добрые, а?\nЯ опять в ловушке?\n
+Я снова принимаю поражение...\nТы гораздо сильнее меня.\n
+Сложная ситуация, но...\nМы никогда не сдадимся!\n
+Ты невероятно сильный тренер.\nПонятно, почему мы проиграли.\n
+Ну уж нет!\nТебе нас не сломить!\n
+Ты могучий тренер!\nТаких стоит уважать.\n
+Мы ещё не закончили!\nНи шагу назад!\n
+Хм!\nМои крепкие Покемоны повержены!\n
+Ты методично загоняешь меня в угол!\nПрямо как тогда!\n
+Это было превосходно.\rПрекрасный выдался бой.\n
+Моего исцеления недостаточно...\n
+Искать баланс между защитой и\nнападением... не так-то просто.\n
+Твоя команда!\nЯ чувствую твою сильную ауру!\n
+Иногда мы сражаемся, а иногда\nобъединяемся...\rЗдорово, когда тренеры находят общий\nязык.\n
+...Время, проведенное с тобой,\nподходит к концу...\n
+...А-ау.\n
+Вот так-так!\nОбстановка накаляется!\n
+Хе-хе-хе!\nТы жжёшь!\n
+О, нет!\nТы сильнее меня!\n
+Интересно, насколько далеко я смогу\nпройти в Боевой башне?\n
+Да что с тобой?!\nЗа что ты мне мстишь?!\n
+Эй! Хватит показывать силу!\nЭто ни разу не мило!\n
+О, нет... Жаль, что всё хорошее так\nбыстро заканчивается.\n
+Вау!\nТы просто нечто!\n
+Ты хорошо сражаешься!\nМоим Покемонам тоже это понравилось!\n
+Мои Покемоны ни в чём не виноваты.\rТвои умения спасли тебя.\n
+Мы ещё не закончили!\nЧлены Элитной четвёрки не сдаются!\n
+Я признаю поражение.\rЗато ты теперь понимаешь, насколько\nЖучьи Покемоны могут быть хороши.\rИ ещё, надеюсь, что ты осознаёшь,\nс чем тебе предстоит столкнуться.\rСражения - это сложное дело...\n
+Не думай, что победа за тобой, дитя.\n
+Что ж! Признаюсь, это было просто\nвеликолепно, дитя.\rТвои Покемоны верили в тебя, а тебе,\nв свою очередь, удалось не подвести\fих. Хоть я и проиграла, но глупая\fулыбка с моего лица наверняка никуда\fне исчезнет!\n
+Я чувствую твою решимость.\nТвоя сила воли поражает меня!\n
+Ситуация...\nНакаляется! Я горю!\n
+Вау!\rНе могу поверить! Я проиграл!\rЯ, конечно, знал, что ты непростой\nпротивник...\rНо я не думал, что ты победишь меня!\nВообще!\rЯ поражён!\nТвои Покемоны здорово отожгли!\n
+Хм-м...\nЧто же делать...\n
+Всё ясно...\rТеперь понятно, как тебе удалось\nпройти тех троих. Ты сильный тренер.\n
+Даже не вспомню, когда я в последний\nраз оказывалась в такой ситуации!\n
+Я не позволю так просто завершить\nсражение! Эта битва слишком весёлая!\n
+...Несколько минут назад за тобой\nбыло звание сильнейшего претендента.\rНо теперь ты являешься сильнейшим из\nтренеров.\rТы - новый чемпион!\n
+Ну уж нет! Я не сдамся!\nНикогда не сдамся!
+Что?!\rНичего, я ещё стану сильнее!\nИ мои Покемоны тоже!\n
+Ну уж нет! Я не сдамся!\nНикогда не сдамся!
+Что?!\rНичего, я ещё стану сильнее!\nИ мои Покемоны тоже!\n
+Ну уж нет! Я не сдамся!\nНикогда не сдамся!
+Что?!\rНичего, я ещё стану сильнее!\nИ мои Покемоны тоже!\n
+Ай! Ты из тех самых фанатов?!\nНеплохо сражаешься!\n
 Моя камера слишком тяжёлая.\nЯ не мог нормально сражаться...\n
-You beat me, but...\nI feel totally amped to jam harder!\n
+Я проиграл, но...\nЯ ещё могу зажигать!\n
 Камера - наша свидетельница!\nОна записала наше поражение...\n
 Из вас могла бы выйти прекрасная\nсуперзвезда!\n
 О, нет-нет-нет!\nХа-ха-ха...\n
